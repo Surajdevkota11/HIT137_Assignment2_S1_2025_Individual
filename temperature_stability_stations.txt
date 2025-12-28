@@ -1,0 +1,11 @@
+============================================================
+TEMPERATURE STABILITY ANALYSIS
+============================================================
+
+MOST STABLE STATION(S):
+------------------------------------------------------------
+Most Stable: Station DARWIN-AIRPORT: StdDev 1.2°C
+
+MOST VARIABLE STATION(S):
+------------------------------------------------------------
+Most Variable: Station WAGGA-WAGGA-AMO: StdDev 6.9°C
